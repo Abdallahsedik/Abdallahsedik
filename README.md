@@ -67,5 +67,3 @@ Credential ID: e2fed81f-8ee7-452e-acd1-e93e993ad00b
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahsedik&layout=compact&theme=default" alt="Most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallahsedik&theme=default" alt="GitHub Streak" />
